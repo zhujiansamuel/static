@@ -1,0 +1,23 @@
+.img-responsive {
+  display: center-block;
+  height: auto;
+  max-width: 60%;
+}
+
+.img-responsive-nav {
+  display: center-block;
+  height: auto;
+  max-width: 20%;
+}
+
+.selector-sam {
+  background-color:transparent;
+
+}
+
+.img-size-sa {
+  display: center-block;
+  height: auto;
+  max-width: 40%;
+}
+
